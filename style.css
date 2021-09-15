@@ -36,11 +36,11 @@
   position: relative;
 }
 .card0 {
-  background: url("./images/dynamo.jpg") center center no-repeat;
+  background: url("./dynamo.jpg") center center no-repeat;
   background-size: 300px;
 }
 .card0:hover {
-  background: url("./images/dynamo.jpg") left center no-repeat;
+  background: url("./dynamo.jpg") left center no-repeat;
   background-size: 600px;
 }
 .card0:hover h2 {
@@ -50,11 +50,11 @@
   opacity: 1;
 }
 .card1 {
-  background: url("./images/mortal.jpg") center center no-repeat;
+  background: url("./mortal.jpg") center center no-repeat;
   background-size: 300px;
 }
 .card1:hover {
-  background: url("./images/mortal.jpg") left center no-repeat;
+  background: url("./mortal.jpg") left center no-repeat;
   background-size: 600px;
 }
 .card1:hover h2 {
@@ -64,11 +64,11 @@
   opacity: 1;
 }
 .card2 {
-  background: url("./images/ujjwal.jpg") center center no-repeat;
+  background: url("./ujjwal.jpg") center center no-repeat;
   background-size: 300px;
 }
 .card2:hover {
-  background: url("./images/ujjwal.jpg") left center no-repeat;
+  background: url("./ujjwal.jpg") left center no-repeat;
   background-size: 600px;
 }
 .card2:hover h2 {
